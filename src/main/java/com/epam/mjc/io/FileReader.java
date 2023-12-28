@@ -3,7 +3,6 @@ package com.epam.mjc.io;
 
 import java.io.File;
 import java.io.*;
-import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Map;
 
